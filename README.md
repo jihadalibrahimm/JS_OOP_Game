@@ -1,3 +1,7 @@
+
+## Live Preview
+Play the game directly in your browser! [Live Preview](https://jihadalibrahimm.github.io/JS_OOP_Game/).
+
 # JavaScript OOP Fighting Game
 
 This project is a simple JavaScript game developed to improve JavaScript and Object-Oriented Programming (OOP) skills. In this game, two characters, John Cena and The Undertacker, battle against each other until one of them's health reaches zero.
@@ -30,10 +34,5 @@ The main functionality of the game is controlled through JavaScript. Here's a br
 - **Character Class**: The `Character` class defines the attributes and methods for each character, including their name, power, health, attack, health regeneration, and health check.
 - **Event Listeners**: Event listeners are set up to handle attack and health button clicks for both characters.
 - **Winner Announcement**: A winner message is dynamically created and appended to the HTML when one of the characters' health reaches zero.
-
-## Live Preview
-
-Play the game directly in your browser! [Live Preview](https://jihadalibrahimm.github.io/JS_OOP_Game/).
-
 
 Enjoy the game!
